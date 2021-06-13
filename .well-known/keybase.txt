@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/namanspace
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://naman.github.io
+  * I am namanspace (https://keybase.io/namanspace) on keybase.
+  * I have a public key ASDmx8TfuUeTT-WYJfXMCL5ZUXa04uV-nwpSIHJWRCGv1Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e6c7c4dfb947934fe59825f5cc08be595176b4e2e57e9f0a522072564421afd50a",
+      "host": "keybase.io",
+      "kid": "0120e6c7c4dfb947934fe59825f5cc08be595176b4e2e57e9f0a522072564421afd50a",
+      "uid": "31ea8ca815211ebdfbb306685df8ea19",
+      "username": "namanspace"
+    },
+    "merkle_root": {
+      "ctime": 1568760042,
+      "hash": "73a466f15b7c2e4362435904630fe83feec5e88993041f188fb5d6d92f6628ea5a5997be63e32f4cca59aedb98eb2e380aae0402e8794efc7a25a9e938282a14",
+      "hash_meta": "2c5e139363df254fcb115735b286f72b06177fa96c7772455cb644b3c009dadf",
+      "seqno": 7538127
+    },
+    "service": {
+      "entropy": "iQvu24Cm462gd8xjViLMaAiX",
+      "hostname": "naman.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.3.2"
+  },
+  "ctime": 1568760061,
+  "expire_in": 504576000,
+  "prev": "beecec5678887bc056c34e89e166dce43be8ec0476d913897968ca6dd01b406b",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5sfE37lHk0/lmCX1zAi+WVF2tOLlfp8KUiByVkQhr9UKp3BheWxvYWTESpcCDsQgvuzsVniIe8BWw06J4Wbc5Dvo7AR22ROJeWjKbdAbQGvEIKwaq1Am8WMpveLq9rc2P24fmJ7VtIXjyOYqxXLoJYvMAgHCo3NpZ8RADG14u1TQ4Ei1fjy4tKWNhJHuDkarw7tRIePmEjcIbP9Owc24NTzWKE+C9LIGHkx40KdgxJWuzQhHv97Wx+KmC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOK6vD85kgOoC9EnMXus30EdFvHZKnzgaCYnoZfMG2/Xo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/namanspace
+
+==================================================================

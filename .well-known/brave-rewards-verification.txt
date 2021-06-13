@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: naman.github.io
+Token: 1ea6113c813c5d15c8d2ed62160cc965e924e0f5c0560820414b7ab832b535d9
