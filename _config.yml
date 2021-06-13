@@ -85,7 +85,7 @@ author:
   bio              : "Security & Privacy Researcher"
   location         : "Mumbai, India"
   employer         : "Microsoft Research"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=Bp34o2sAAAAJ"
   email            : "naman.gupta@pm.me"
   researchgate     :  "https://www.researchgate.net/profile/Naman-Gupta-11"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
