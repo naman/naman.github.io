@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-UPDATE: This Fall, I will be joining University of Wisconin-Madison as a PhD student in <a target="_blank" href="https://madsp.cs.wisc.edu/" > Madison Security and Privacy Group </a> where I will be collaborating with <a target="_blank" href="pages.cs.wisc.edu/~jha/"> Prof. Somesh Jha</a>. 
+<strong> UPDATE:</strong> This Fall, I will be joining University of Wisconin-Madison as a PhD student in <a target="_blank" href="https://madsp.cs.wisc.edu/" > Madison Security and Privacy Group </a> where I will be collaborating with <a target="_blank" href="pages.cs.wisc.edu/~jha/"> Prof. Somesh Jha</a>. 
 
 I am currently working as a Research Fellow at Microsoft Research (MSR) India (joined January 2020). I have been working
 closely with <a target="_blank" href="https://www.microsoft.com/en-us/research/people/kapilv/">Kapil Vaswani</a> with the Confidential Computing Group. Prior to this, I was working as a DevSecOps Engineer at <a target="_blank"  href="https://grab.com">Grab</a> (2018-2019)
