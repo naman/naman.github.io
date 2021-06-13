@@ -11,6 +11,7 @@ citation: 'Naman Gupta, Srishti Sengupta, and Vinayak Naik (2017). &quot;A firew
 With the advent of the Internet of Things (IoT), privacy and security of sensitive data has become a major concern. In general, sensors which are the enablers for IoT, send the sensed data to a cloud database over the internet. The communication to the cloud database may be compromised by an adversary, or the database maybe accessed by a curious database administrator, thereby raising security concerns. To solve this issue, we demonstrate a solution to safeguard IoT devices in a home network scenario from potential attacks. A firewall is set up using a Raspberry Pi as a gateway which secures their communication with the cloud database. Furthermore, we plan to build a location-aware (physical location in the home network scenario) heuristics and a signature based traffic detection dashboard running on the Raspberry Pi, in order to control the IoT devices and log their network behavior.
 
 [PDF](/files/firewall-iot.pdf)
+
 [Thesis](/files/thesis-firewall-iot.pdf)
 
 ```
