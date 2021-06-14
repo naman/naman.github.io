@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 <strong> UPDATE:</strong> This Fall, I will be joining University of Wisconin-Madison as a PhD student in <a target="_blank" href="https://madsp.cs.wisc.edu/" > Madison Security and Privacy Group </a> where I will be collaborating with <a target="_blank" href="pages.cs.wisc.edu/~jha/"> Prof. Somesh Jha</a>. 
 
 I am currently working as a Research Fellow at Microsoft Research (MSR) India (joined January 2020). I have been working
