@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Talks | Naman Gupta</title><link>https://naman.github.io/event/</link><atom:link href="https://naman.github.io/event/index.xml" rel="self" type="application/rss+xml"/><description>Recent &amp; Upcoming Talks</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 May 2022 12:10:38 -0500</lastBuildDate><image><url>https://naman.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Recent &amp; Upcoming Talks</title><link>https://naman.github.io/event/</link></image><item><title>Security 101</title><link>https://naman.github.io/talk/security-101/</link><pubDate>Wed, 04 May 2022 12:10:38 -0500</pubDate><guid>https://naman.github.io/talk/security-101/</guid><description>&lt;p>The talk content was a collaboration with &lt;a href="https://github.com/lionaneesh" target="_blank" rel="noopener">lionaneesh&lt;/a>. Please find the slides here &lt;a href="https://slides.com/aneeshdogra-1/security-101" target="_blank" rel="noopener">https://slides.com/aneeshdogra-1/security-101&lt;/a>.&lt;/p>
+&lt;h1 id="test">Test&lt;/h1>
+&lt;ul>
+&lt;li>Solve &lt;a href="https://backdoor.sdslabs.co/challenges/XORFUN" target="_blank" rel="noopener">https://backdoor.sdslabs.co/challenges/XORFUN&lt;/a>. (credits: &lt;a href="https://backdoor.sdslabs.co/users/rnehra01" target="_blank" rel="noopener">https://backdoor.sdslabs.co/users/rnehra01&lt;/a>) [1 point]&lt;/li>
+&lt;li>Use a software frontend forward proxy TLS offloader (nginx, haproxy) to host a website.
+&lt;ul>
+&lt;li>What is end-to-end encryption?&lt;/li>
+&lt;li>You have to use OpenSSL library to generate a local CA, intermediate CA, certs (both server and client) and CRLs.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Get a cert signed by Letsencrypt CA. [2 points]&lt;/li>
+&lt;li>Do the following services use asymm / symm crypto - ssh, tls, bluetooth pairing? How does the key sharing work? [1 point]&lt;/li>
+&lt;li>Talk to any one of the senior DevOps to understand how LDAP/ SSO works in media.net. How are your users, created and keys synced accross the servers? [2 points]&lt;/li>
+&lt;/ul></description></item><item><title>Containers &amp; Virtualization</title><link>https://naman.github.io/talk/containers-virtualization/</link><pubDate>Tue, 17 Jul 2018 12:10:42 -0500</pubDate><guid>https://naman.github.io/talk/containers-virtualization/</guid><description>&lt;p>&lt;a href="https://naman.github.io/uploads/Containers.pdf">Containers&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://naman.github.io/uploads/Virtualization.pdf">Virtualization&lt;/a>&lt;/p>
+&lt;h1 id="test">Test&lt;/h1>
+&lt;ol>
+&lt;li>
+&lt;p>Create a memory hungry application (systemd-service), try to limit it&amp;rsquo;s resources using cgroups and create a separate proc namespace to isolate processes. [10 points]&lt;/p>
+&lt;h3 id="learning-objectives">Learning objectives:&lt;/h3>
+&lt;p>By the end of the exercise, you should learn about&lt;/p>
+&lt;ol>
+&lt;li>Cgroups - resource limitation&lt;/li>
+&lt;li>Namespaces - isolation of subsystems&lt;/li>
+&lt;li>Process trees, systemd&lt;/li>
+&lt;/ol>
+&lt;p>Do the same using docker containers. [10 points]&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nextcloud is an OpenSource private self-hosted storage solution akin to Dropbox. A Nextcloud deployment typically contains a web proxy, mysql, a php application, and the letsencrypt certbot for automated TLS certificate renewals. Deploy a Nextcloud instance using containers (You may use a Dockerfile or docker-compose, up to you). You may skip deploying the TLS certificate generator / renewal bot (letsencrypt-nginx-proxy-companion) if you don&amp;rsquo;t want to support TLS / HTTPS (EFF&amp;rsquo;s certbot).&lt;/p>
+&lt;p>&lt;code>Hint 1&lt;/code>: Nextcloud is OpenSource.&lt;/p>
+&lt;p>&lt;code>Hint 2&lt;/code>: HTTPS is usually configured to run on port 443.&lt;/p>
+&lt;p>&lt;code>Hint 3&lt;/code>: Hint for hint 1: &lt;a href="https://github.com/nextcloud/docker/tree/master/.examples" target="_blank" rel="noopener">https://github.com/nextcloud/docker/tree/master/.examples&lt;/a>&lt;/p>
+&lt;p>&lt;code>Submit&lt;/code> your Dockerfiles / docker-compose files and nextcloud deployment endpoints.&lt;/p>
+&lt;h3 id="learning-objectives-1">Learning objectives:&lt;/h3>
+&lt;p>By the end of the exercise, you should learn about&lt;/p>
+&lt;ol>
+&lt;li>Containerizing deployment and application parts - resource limiting, isolation, efficient usage&lt;/li>
+&lt;li>stateless vs stateful architecture - volume mounts&lt;/li>
+&lt;li>basics of overlay networks&lt;/li>
+&lt;/ol>
+&lt;p>[40 points]&lt;/p>
+&lt;p>Bonus: Try to make the deployment stateless. [40 points]&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Create two namespaces providing veth (Virtual Ethernet drivers) isolation, so that the two containers are able to ping each other.&lt;/p>
+&lt;h3 id="learning-objectives-2">Learning objectives:&lt;/h3>
+&lt;p>By the end of the exercise, you should learn about&lt;/p>
+&lt;ol>
+&lt;li>Container networking&lt;/li>
+&lt;/ol>
+&lt;p>&lt;code>Submit&lt;/code> screenshots of ping trace / dockerfiles / configuration used.&lt;/p>
+&lt;p>[30 points]&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bake a Cloudstack Image to spin up a VMs(KVM) with attached volumes, each with a random hostname which shouts the box&amp;rsquo;s hostname on flock after it comes up.&lt;/p>
+&lt;h3 id="learning-objectives-3">Learning objectives:&lt;/h3>
+&lt;p>By the end of the exercise, you should learn about&lt;/p>
+&lt;ol>
+&lt;li>How CloudStack spins up VMs? Storage provisioning?&lt;/li>
+&lt;li>User data scripts&lt;/li>
+&lt;li>system runlevels&lt;/li>
+&lt;li>flock bots (lol)&lt;/li>
+&lt;/ol>
+&lt;p>&lt;code>Submit&lt;/code> your Imageid and your flockbot name.&lt;/p>
+&lt;p>[40 points]&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Byld:HackNight With Nodejs</title><link>https://naman.github.io/talk/byldhacknight-with-nodejs/</link><pubDate>Fri, 16 Oct 2015 12:10:50 -0500</pubDate><guid>https://naman.github.io/talk/byldhacknight-with-nodejs/</guid><description>&lt;p>The talk content was a collaboration with &lt;a href="https://twitter.com/_atulj" target="_blank" rel="noopener">atulj&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://naman.github.io/uploads/nodejs.pdf">Slides&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://naman.github.io/uploads/hacknight.zip">Code&lt;/a>&lt;/p></description></item></channel></rss>
