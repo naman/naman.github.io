@@ -6,3 +6,4 @@ Gemfile.lock
 .jekyll-cache
 git-update.sh
 vendor/
+.jekyll-metadata
