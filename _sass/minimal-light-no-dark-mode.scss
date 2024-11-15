@@ -1,3 +1,5 @@
+$link-color: #316B83;
+
 .pub-row {
   display: flex; 
   align-items: center;}
@@ -7,7 +9,7 @@
   height:2.4rem;
   width:2.4rem;
   background-color:transparent;
-  color:#043361!important;
+  color:$link-color!important;
   border-radius:100%;
   text-align:center;
   font-size:1.15rem;
@@ -83,7 +85,7 @@
 
 email {
     font-size: 14px;
-    font-family: "Ubuntu Mono";
+    // font-family: "Ubuntu Mono";
 }
 
 .icon-button i{
@@ -183,18 +185,18 @@ papertitle {
 
 h3, h4, h5, h6 {
   font-weight: 600;
-  color:#043361;
+  color:$link-color;
   margin:0 0 20px;
 }
 
 h1 {
   font-weight: 500;
-  color:#043361;
+  color:$link-color;
   margin:0 0 20px;
 }
 
 h2 {
-  color:#043361;
+  color:$link-color;
   font-weight: 500;
   margin:2px 0px 15px;
   font-size: 157%;
@@ -213,7 +215,7 @@ h1 {
 }
 
 a {
-  color:#39c;
+  color:$link-color;
   text-decoration:none;
 }
 
@@ -288,7 +290,7 @@ header {
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
   padding-top:4.0em;
-  text-align:center
+  text-align:center;
 }
 
 
@@ -494,7 +496,6 @@ footer {
   body {
     padding:0.4in;
     font-size:12pt;
-    color:#444;
   }
 }
 

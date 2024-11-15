@@ -1,16 +1,34 @@
-## Services
+## Service
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+- Associate Chair (Program Committee) -- CSCW'25.
+- External Reviewer -- EuroUSEC'24, CHI LBW'24, CSCW'24.
+- Artefact Evaluation -- NDSS'25.
+- Poster Committee -- IEEE S\&P'24 (Oakland), SOUPS'24.
+- Organizer -- Queer in Security & Privacy event at NDSS'23.
 
-<ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-</ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+## Teaching
 
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
-</ul>
+- Teaching Assistant for CS639: Capstone Projects (UW-Madison).
+- Teaching Assistant for [CS540: Artificial Intelligence](https://pages.cs.wisc.edu/~yw/CS540S23.html") (UW-Madison).
+- Teaching Assistant for CS546:Mobile Computing (IIIT-Delhi & NPTEL).
+- Instructor for Data Structures & Algorithms and Systems Programming (IIIT-Delhi).
+
+
+## Mentoring
+
+UW-Madison
+- Graduate Students -- Kexin Zhang, Pooja Yadav, Daniel Mu, Mohammad Musa, Deep Patel
+- Undergraduate Students -- Emily Wu, Justin Yeung
+- Mentor, [UW-Madison CS Graduate Student Mentorship Program](https://www.cs.wisc.edu)
+- Officer, Student's Chapter of ACM (SACM)
+- Organizer: [HCI Reading Group](https://bit.ly/uwmadison-hcc-meetup) at UW-Madison
+- Community Organizer for [UW Madison Grad Student Discord](https://discord.gg/Bzf7Kz6RQ5"). Join us!
+
+
+IIIT-Delhi
+- Co-founder for Project Mentorship Program for 200+ freshman students.
+- Administrator, Byld, a programming club at IIIT-Delhi.
+- Mentor, Rails Girls Summer of Code 2017.
+- Organizing Team, 1st Blockhain Summit in India
+- Judge, Google’s Code to Learn Contest 2016

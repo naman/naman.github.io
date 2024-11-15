@@ -1,11 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,500;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;700&family=Jost&family=Jost:wght@400;700');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 
 body {
   background-color: #fff;
   padding:0px;
-  font: 16.0px/1.5 Crimson Pro, serif; 
+  font: 16.0px/1.5 Jost, serif; 
   color:#595959;
-  font-weight:400;
+  font-weight:500;
+  font-size: large;
   margin:0
 }
