@@ -11,6 +11,9 @@ I graduated from IIIT-Delhi with a Bachelors in Computer Science where I was adv
 
 ## News
 
+- **Dec'24**
+  - Invited talk on *Technology-facilitated Abuse* in [Psi Chi, Psychology Career Conversations Workshop](https://psych.wisc.edu/event/career-conversations-workshop/) at UW-Madison.
+  - Conducting an advocate training workshop on *Technology-facilitated Abuse* at [Soujourner Family Peace Center, Milwaukee, WI](https://techclinic.cs.wisc.edu/).
 
 - **Nov'24**
   - Going to the [Midwest Security Workshop 2024](https://www.midwestsecurityworkshop.com/agenda.html) at Purdue University. See you there!
