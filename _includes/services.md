@@ -1,8 +1,8 @@
 ## Service
 
 - Associate Chair (Program Committee) -- CSCW'25.
-- External Reviewer -- EuroUSEC'24, CHI LBW'24, CSCW'24.
-- Artefact Evaluation -- NDSS'25.
+- Reviewer -- EuroUSEC'24, CHI LBW'24, CSCW'24, Violence Against Women (VAW) Journal (2024).
+- Artifact Evaluation -- NDSS'25.
 - Poster Committee -- IEEE S\&P'24 (Oakland), SOUPS'24.
 - Organizer -- Queer in Security & Privacy event at NDSS'23.
 

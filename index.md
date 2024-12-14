@@ -14,10 +14,10 @@ I graduated from IIIT-Delhi with a Bachelors in Computer Science where I was adv
 - **Dec'24**
   - Invited talk on *Technology-facilitated Abuse* in [Psi Chi, Psychology Career Conversations Workshop](https://psych.wisc.edu/event/career-conversations-workshop/) at UW-Madison.
   - Conducting an advocate training workshop on *Technology-facilitated Abuse* at [Soujourner Family Peace Center, Milwaukee, WI](https://techclinic.cs.wisc.edu/).
-
+  - Accepted review invitation for the Violence Against Women Journal. &#127882;
 - **Nov'24**
   - Going to the [Midwest Security Workshop 2024](https://www.midwestsecurityworkshop.com/agenda.html) at Purdue University. See you there!
-  - Talk at annual CS Research Symposium 2024.
+  - Talk at CS Research Symposium, UW-Madison 2024.
 - **Aug'24**
   - Excited to jhoin the program committee as an Associate Chair for CSCW'25! &#127882;
   - Organized a focus group on *Technology-facilitated Colonial Violence* at USENIX Security'24.
