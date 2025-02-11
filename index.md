@@ -11,6 +11,8 @@ I graduated from IIIT-Delhi with a Bachelors in Computer Science where I was adv
 
 ## News
 
+- **Jan'25**
+  - Started Decolonial Collective at UW-Madison. The collective is a reading group and sharing space for scholars interested in decolonial thought.
 - **Dec'24**
   - Invited talk on *Technology-facilitated Abuse* in [Psi Chi, Psychology Career Conversations Workshop](https://psych.wisc.edu/event/career-conversations-workshop/) at UW-Madison.
   - Conducting an advocate training workshop on *Technology-facilitated Abuse* at [Soujourner Family Peace Center, Milwaukee, WI](https://techclinic.cs.wisc.edu/).
