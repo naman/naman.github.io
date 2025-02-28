@@ -27,26 +27,26 @@ I graduated from IIIT-Delhi with a Bachelors in Computer Science where I was adv
 - **Aug'24**
   - Excited to jhoin the program committee as an Associate Chair for CSCW'25! &#127882;
   - Organized a focus group on *Technology-facilitated Colonial Violence* at USENIX Security'24.
-  - Awarded student grant to present a [poster](#) at SOUPS'24 and [paper](publication/usenix-24/) at USENIX Security'24! &#127882;
+  - Awarded student grant to present at SOUPS'24 and USENIX Security'24! &#127882;
 - **May'24**
-  - [Paper](publication/usenix-24/) accepted at USENIX'24! &#127882;
-  - Presented [poster](publication/chilbw-2024/) at CHI'24.
+  - [Paper](assets/files/papers/usenix24.pdf) accepted at USENIX'24! &#127882;
+  - Presented [poster](assets/files/papers/chilbw24.pdf) at CHI'24.
   - Passed PhD Qualifying exam! &#127882;
 - **Apr'24**
   - Presented poster at [UW-Madison’s Day at WI State Capitol!](https://staterelations.wisc.edu/uw-madison-day-at-the-capitol/)
   - Presented work to [WI DOJ MMIW Taskforce](https://www.doj.state.wi.us/missing-and-murdered-indigenous-women-task-force).
 - **Feb'24**
-  - [Paper](publication/chilbw-2024/) accepted at CHI'24 (Late Breaking Work)! &#127882;
-  - [Paper](publication/plsc-2024/) accepted at Privacy Law Scholars Conference'24 workshop! &#127882;
+  - [Paper](assets/files/papers/chilbw24.pdf) accepted at CHI'24 (Late Breaking Work)! &#127882;
+  - Paper accepted at Privacy Law Scholars Conference'24 workshop! &#127882;
 - **Apr'23**: 
   - Runners-up talk at UW-Madison CS Research Symposium'23. &#127882;
 - **Mar'23**: 
   - Awarded a student grant to attend NDSS'23. Organized *Queer in Security *and* Privacy* discussion with [Hieu Le](https://levanhieu.com/).
 - **Dec'22**: 
-  - [Paper](publication/2023/) accepted in NDSS'23 (Workshop on Usable Security)! &#127882;
+  - [Paper](assets/files/papers/usec23.pdf) accepted in NDSS'23 (Workshop on Usable Security)! &#127882;
 
 <!-- - **Aug'21**: Started PhD in Computer Science at UW-Madison.
-- **Jan'21**: (publication/272306/)Paper] accepted at USENIX'21! &#127882;
+- **Jan'21**: (assets/files/papers/272306/)Paper] accepted at USENIX'21! &#127882;
 - **Jan'20**: Started Research Fellowship at MSR.
 - **May'17**: Graduated from IIIT-Delhi.
 - **Jan'17**
