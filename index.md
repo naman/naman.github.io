@@ -11,10 +11,11 @@ I graduated from IIIT-Delhi with a Bachelors in Computer Science where I was adv
 
 ## News
 
+- **Mar'25**
+  - Participated in a [panel on tech abuse](https://the-network.org/event/panel-discussion-technology-facilitated-abuse/) at The Network’s “Reclaiming Our Love: Social Justice & Domestic Violence” Conference in Chicago.
+  - Our work on digital evidence for tech abuse was accepted in CSCW ‘25! 🎉
 - **Feb'25**
-  - Our work on digital evidence for tech abuse was conditionally accepted in CSCW ‘25! 🎉
   - Guest lecture for PSYCH311: Sexual Violence Research and Advocacy.
-
 - **Jan'25**
   - Started Decolonial Collective at UW-Madison. The collective is a reading group and sharing space for scholars interested in decolonial thought.
 - **Dec'24**
@@ -25,7 +26,7 @@ I graduated from IIIT-Delhi with a Bachelors in Computer Science where I was adv
   - Going to the [Midwest Security Workshop 2024](https://www.midwestsecurityworkshop.com/agenda.html) at Purdue University. See you there!
   - Talk at CS Research Symposium, UW-Madison 2024.
 - **Aug'24**
-  - Excited to jhoin the program committee as an Associate Chair for CSCW'25! &#127882;
+  - Excited to join the program committee as an Associate Chair for CSCW'25! &#127882;
   - Organized a focus group on *Technology-facilitated Colonial Violence* at USENIX Security'24.
   - Awarded student grant to present at SOUPS'24 and USENIX Security'24! &#127882;
 - **May'24**
