@@ -1,9 +1,12 @@
 
 ## News
 
+- **Jun'25**
+  - Awarded and inducted into the 2025-26 cohort of prestigious [Morgridge Fellows program for Community-Engaged Scholarship (CES)](https://morgridge.wisc.edu/faculty-and-staff-get-connected/morgridge-fellows/)! &#127882;
+
 - **Mar'25**
   - Participated in a [panel on tech abuse](https://the-network.org/event/panel-discussion-technology-facilitated-abuse/) at The Network’s “Reclaiming Our Love: Social Justice & Domestic Violence” Conference in Chicago.
-  - Our work on digital evidence for tech abuse was accepted in CSCW ‘25! 🎉
+  - [Paper](#) accepted in CSCW ‘25!  &#127882;
 - **Feb'25**: Guest lecture for PSYCH311: Sexual Violence Research and Advocacy.
 - **Jan'25**: Started Decolonial Collective at UW-Madison. The collective is a reading group and sharing space for scholars interested in decolonial thought.
 

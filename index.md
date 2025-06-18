@@ -12,5 +12,3 @@ I graduated from IIIT-Delhi with a Bachelors in Computer Science where I was adv
 {% include_relative _includes/news.md %}
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}
-
-<iframe src="https://snowflake.torproject.org/embed.html" width="320" height="240" frameborder="0" scrolling="no"></iframe>
