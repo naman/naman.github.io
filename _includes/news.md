@@ -2,7 +2,7 @@
 ## News
 
 - **Jun'25**
-  - Awarded and inducted into the 2025-26 cohort of prestigious [Morgridge Fellows program for Community-Engaged Scholarship (CES)](https://morgridge.wisc.edu/faculty-and-staff-get-connected/morgridge-fellows/)! &#127882;
+  - Awarded prestigious [Morgridge Fellowship for Community-Engaged Scholarship](https://morgridge.wisc.edu/faculty-and-staff-get-connected/morgridge-fellows/) recognizing my advocacy work with [Madison Tech Clinic](https://techclinic.cs.wisc.edu/)! &#127882;
 
 - **Mar'25**
   - Participated in a [panel on tech abuse](https://the-network.org/event/panel-discussion-technology-facilitated-abuse/) at The Network’s “Reclaiming Our Love: Social Justice & Domestic Violence” Conference in Chicago.
