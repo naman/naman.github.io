@@ -1,13 +1,13 @@
 # Basic Information 
 title: Naman Gupta
-position: Ph.D. Student & Director of Outreach
-affiliation: Madison Tech Clinic at University of Wisconsin-Madison
+position: 'Ph.D. Student (Director of Outreach)'
+affiliation: University of Wisconsin-Madison (Madison Tech Clinic)
 email: n@cs.wisc.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: minimal light
-description: My primary research interests lie in analyzing safe usable-systems for marginalized populations.
+description: My research advances the safety and well-being of the marginalized populations who face gender-based violence (GBV) by amplifying their silenced voices.
 canonical: https://naman.github.io
 
 # Links 
@@ -16,7 +16,7 @@ google_scholar: https://scholar.google.com/citations?user=Bp34o2sAAAAJ&hl=en&oi=
 cv_link: assets/files/CV.pdf
 github_link: https://github.com/naman
 linkedin: https://www.linkedin.com/in/namanspace/
-twitter: https://twitter.com/_NamanGuptaa
+# twitter: https://twitter.com/_NamanGuptaa
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
@@ -26,7 +26,7 @@ favicon_dark: ./assets/img/favicon.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: false
+enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
