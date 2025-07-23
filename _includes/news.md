@@ -2,9 +2,9 @@
 
 - **July'25**
   - Facilitated training sessions on tech-faciliated abuse in collaboration with:
-    - July 2: Capacitity Building Consortium lead by National Indigenous Women’s Resource Center (NIWRC) and National Network to End Domestic Violence (NNEDV) (Online)
+    - July 29: [National Indigenous Women’s Resource Center (NIWRC) Women are Sacred Conference](https://www.niwrc.org/2025-women-are-sacred-conference) (Milwaukee, WI): Invited by NIWRC to facilitate a workshop on technology-facilitated abuse! &#127882;
     - July 11: ARC Community Services (Madison, WI)
-    - July 29: NIWRC's Women are Sacred Conference (Milwaukee, WI) 
+    - July 2: Capacitity Building Consortium lead by National Indigenous Women’s Resource Center (NIWRC) and National Network to End Domestic Violence (NNEDV) (Online)
   -  [Paper](#) accepted in CCS ‘25!  &#127882;
 - **June'25**
   - Awarded prestigious [Morgridge Fellowship for Community-Engaged Scholarship](https://morgridge.wisc.edu/faculty-and-staff-get-connected/morgridge-fellows/) recognizing my advocacy work with [Madison Tech Clinic](https://techclinic.cs.wisc.edu/)! &#127882;
