@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-Hello! I am Naman (he/him), a Computer Science PhD student at the [University of Wisconsin-Madison, USA](https://wisc.edu/). Further, I am the Director of Outreach at the Madison Tech Clinic (MTC), a free and confidential community-engaged organization that has provided trauma-informed support to 110+ gender-based violence (GBV) survivors across Wisconsin, USA. 
+Hello! I am Naman (he/him), a PhD student at the [School of Computer, Data, and Information Science, University of Wisconsin-Madison, USA](https://cdis.wisc.edu/). Further, I am the Director of Outreach at the Madison Tech Clinic (MTC), a free and confidential community-engaged organization that has provided trauma-informed support to 110+ gender-based violence (GBV) survivors across Wisconsin, USA. 
 
 My research combines interdisciplinary perspectives through collaborations with [MadS&P](https://madsp.cs.wisc.edu/), [Preventing Interpersonal Violence and Overcoming Trauma (PIVOT) Lab](https://pivotlab.psych.wisc.edu/), [Native American Women Thriving through Innovative Violence Prevention and Empowerment (NATIVE) Lab](https://nativelab.wiscweb.wisc.edu) and [Sexual Violence Research Initative (SVRI)](https://crgw.gws.wisc.edu/sexual-violence-research-initiative/). With advise from [Prof. Rahul Chatterjee](https://pages.cs.wisc.edu/~chatterjee/), I am committed to advancing the safety and well-being of the marginalized populations who face gender-based violence (GBV) by amplifying their silenced voices. Rooted in cultural sensitivity, my work empowers survivors by fostering safety, healing, and resilience.
 
