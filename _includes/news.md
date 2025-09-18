@@ -1,5 +1,8 @@
 ### What have I been up to? 🔥
 
+- **Sept'25**
+ - Invited to chair a session at CSCW '25! &#127882;
+
 - **July'25**
   - Facilitated training sessions on tech-faciliated abuse in collaboration with:
     - July 29: [National Indigenous Women’s Resource Center (NIWRC) Women are Sacred Conference](https://www.niwrc.org/2025-women-are-sacred-conference) (Milwaukee, WI): Invited by NIWRC to facilitate a workshop on technology-facilitated abuse! &#127882;
