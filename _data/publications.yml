@@ -1,4 +1,24 @@
 main:
+  - title: '[redacted] Genocide and Socio-technical Barriers of Indigenous communities'
+    authors: Naman Gupta, Sophie Stephenson, Chung Chi Yeung, Weiteng Wu, Jeneile Luebke, Kate Walsh, Rahul Chatterjee
+    date: '2025-03-04'
+    publication: 'In submission at CHI 2026'
+    # pdf: assets/files/papers/usenix24.pdf
+    # bibtex: assets/files/bibs/usenix24.bib
+    # slides: assets/files/slides/usenix24.pdf
+    # image: assets/img/usenix24.png
+    # page: https://www.usenix.org/conference/usenixsecurity24/presentation/gupta
+
+  - title: '[redacted] Tool to collect legal evidence of technology-facilitated abuse'
+    authors: Sophie Stephenson, Naman Gupta, Akhil Polamarasetty, Kyle Huang, David Youssef, Kayleigh Cowan, Rahul Chatterjee
+    date: '2025-03-04'
+    publication: 'In submission at CHI 2026'
+    # pdf: assets/files/papers/usenix24.pdf
+    # bibtex: assets/files/bibs/usenix24.bib
+    # slides: assets/files/slides/usenix24.pdf
+    # image: assets/img/usenix24.png
+    # page: https://www.usenix.org/conference/usenixsecurity24/presentation/gupta
+  
 
   - title: 'Hidden in Plain Bytes: Exploring Data Exports for Investigating Interpersonal Account Compromise'
     authors: Julia Nonnenkamp, <strong>Naman Gupta</strong>, Abhimanyu Gupta, and Rahul Chatterjee
@@ -19,6 +39,17 @@ main:
     # slides: assets/files/slides/usenix24.pdf
     # image: assets/img/usenix24.png
     # page: https://www.usenix.org/conference/usenixsecurity24/presentation/gupta
+
+  - title: 'Decolonizing Digital Safety Research: Safety for Who? Safety from What?'
+    authors: <strong>Naman Gupta</strong> and Rahul Chatterjee
+    date: '2024-11-08'
+    publication: 'Workshop at CHI 2024. “What is Safety?”: Building Bridges Across Approaches to Digital Risks and Harms'
+    # pdf: assets/files/papers/usenix24.pdf
+    # bibtex: assets/files/bibs/usenix24.bib
+    # slides: assets/files/slides/usenix24.pdf
+    # image: assets/img/usenix24.png
+    # page: https://www.usenix.org/conference/usenixsecurity24/presentation/gupta
+
 
   - title: '“I really just leaned on my community for support”: Barriers, Challenges, and Coping Mechanisms Used by Survivors of Technology–Facilitated Abuse to Seek Social Support'
     authors: <strong>Naman Gupta</strong>, Kate Walsh, Sanchari Das, Rahul Chatterjee
