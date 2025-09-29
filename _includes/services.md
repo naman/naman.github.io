@@ -1,14 +1,13 @@
 ## Service
 
-Number of papers reviewed in (X).
+Number of papers reviewed in (X). 🏅 Special recognition for an outstanding review.
 
+- Session Chair (Program Committee) -- CSCW'25.
 - Associate Chair (Program Committee) -- CSCW'25 (8).
 - Reviewer -- EuroUSEC'24 (1), CHI LBW'24 (1), CSCW'24 (1) 🏅, Journal of Violence Against Women (VAW)(2024) (1).
 - Artifact Evaluation -- NDSS'25 (1) 🏅.
 - Poster Committee -- IEEE S\&P'24 (4) 🏅, SOUPS'24 (1) 🏅.
 - Organizer -- Queer in Security & Privacy event at NDSS'23.
-
-🏅 Special recognition for an outstanding review.
 
 ## Teaching
 
