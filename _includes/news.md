@@ -1,7 +1,8 @@
 ### What have I been up to? 🔥
 
-- **Sept'25**
- - Invited to chair a session at CSCW '25! &#127882;
+- **Oct'25**
+  - Chaired a session on [Reflecting on Methodology](https://programs.sigchi.org/cscw/2025/program/session/213468) at CSCW'25! &#127882;
+  - Our paper received an [Honorable Mention](https://programs.sigchi.org/cscw/2025/program/content/211052) at CSCW'25! &#127882;
 
 - **July'25**
   - Facilitated training sessions on tech-faciliated abuse in collaboration with:
