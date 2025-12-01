@@ -1,8 +1,8 @@
 ### What have I been up to? 🔥
 
 - **Nov'25**
-- Invited to present at [Native Nations Nursing, Helpers, and Healers Summit, 2025](https://nursing.wisc.edu/native-nations-nursing/) &#127882;
-- Invited to the Program Committee for Symposium on Usable Security and Privacy USEC (NDSS) 2026. &#127882;
+  - Invited to present at [Native Nations Nursing, Helpers, and Healers Summit, 2025](https://nursing.wisc.edu/native-nations-nursing/) &#127882;
+  - Invited to the Program Committee for Symposium on Usable Security and Privacy USEC (NDSS) 2026. &#127882;
 
 - **Oct'25**
   - Invited to Lac Court Oreilles Reservation (LCO) to facilitate a workshop on technology-facilitated abuse for advocates. &#127882;
