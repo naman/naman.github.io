@@ -1,5 +1,8 @@
 ### What have I been up to? 🔥
 
+- **Dec'25**
+ - Passed my PhD Thesis Proposal Exam! Officially, a PhD Candidate now. &#127882;
+
 - **Nov'25**
   - Invited to present at [Native Nations Nursing, Helpers, and Healers Summit, 2025](https://nursing.wisc.edu/native-nations-nursing/) &#127882;
   - Invited to the Program Committee for Symposium on Usable Security and Privacy USEC (NDSS) 2026. &#127882;
