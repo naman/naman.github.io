@@ -1,5 +1,8 @@
 ### What have I been up to? 🔥
 
+- **Jan'26**
+  - Awarded [Knapp Bequest Award, UW-Madison](https://secfac.wisc.edu/awards-lectures/knapp-bequest/) for the Decolonial Collective! &#127882;
+
 - **Dec'25**
   - Passed my PhD Thesis Proposal Exam! Officially, a PhD Candidate now. &#127882;
 
@@ -10,7 +13,7 @@
 - **Oct'25**
   - Invited to Lac Court Oreilles Reservation (LCO) to facilitate a workshop on technology-facilitated abuse for advocates. &#127882;
   - Chaired a session on [Reflecting on Methodology](https://programs.sigchi.org/cscw/2025/program/session/213468) at CSCW'25! &#127882;
-  - Our paper received an [Honorable Mention](https://programs.sigchi.org/cscw/2025/program/content/211052) at CSCW'25! &#127882;
+  - Our paper received an [Top 5%, Honorable Mention for Best Paper](https://programs.sigchi.org/cscw/2025/program/content/211052) at CSCW'25! &#127882;
 
 - **July'25**
   - Facilitated training sessions on tech-faciliated abuse in collaboration with:
