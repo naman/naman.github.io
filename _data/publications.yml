@@ -1,18 +1,18 @@
 main:
-  - title: '[redacted] Genocide and Socio-technical Barriers of Indigenous communities'
+  - title: '"Lighting The Way For Those Not Here": How Technology Researchers Can Help Fight the Missing and Murdered Indigenous Relatives (MMIR) Crisis'
     authors: Naman Gupta, Sophie Stephenson, Chung Chi Yeung, Weiteng Wu, Jeneile Luebke, Kate Walsh, Rahul Chatterjee
-    date: '2025-03-04'
-    publication: 'In submission at CHI 2026'
+    date: '2026-01-15'
+    publication: 'arXiv preprint'
     # pdf: assets/files/papers/usenix24.pdf
     # bibtex: assets/files/bibs/usenix24.bib
     # slides: assets/files/slides/usenix24.pdf
     # image: assets/img/usenix24.png
     # page: https://www.usenix.org/conference/usenixsecurity24/presentation/gupta
 
-  - title: '[redacted] Tool to collect legal evidence of technology-facilitated abuse'
+  - title: 'Trauma-Informed Digital Evidence Collection: A Design Inquiry into Evidence Practices for Technology-Facilitated Abuse in Intimate Partner Violence'
     authors: Sophie Stephenson, Naman Gupta, Akhil Polamarasetty, Kyle Huang, David Youssef, Kayleigh Cowan, Rahul Chatterjee
-    date: '2025-03-04'
-    publication: 'In submission at CHI 2026'
+    date: '2026-01-15'
+    publication: 'Conditionally Accepted at CHI 2026'
     # pdf: assets/files/papers/usenix24.pdf
     # bibtex: assets/files/bibs/usenix24.bib
     # slides: assets/files/slides/usenix24.pdf
