@@ -1,7 +1,10 @@
 # Basic Information 
 title: Naman Gupta
 position: 'Ph.D. Candidate'
-affiliation: University of Wisconsin-Madison
+affiliation: Computer Science
+affiliation_link: https://www.cs.wisc.edu/
+university: University of Wisconsin-Madison
+university_link: https://www.wisc.edu/
 email: n@cs.wisc.edu
 
 # Search Engine Optimization (SEO)
@@ -12,13 +15,13 @@ canonical: https://naman.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
+embed_news_sidebar: true
 google_scholar: https://scholar.google.com/citations?hl=en&user=0vkBh14AAAAJ&view_op=list_works&gmla=AH8HC4wz-wl3_wCGFFlbpDA4xEopaEPLNyNkPo_wf_UfLS3q2I7SWMTxugvodA7F7mMGST9d5C3deEVclLIku8V5
 research_gate: https://www.researchgate.net/profile/Naman-Gupta-11
 dblp: https://orcid.org/0000-0002-9581-081X
 cv_link: assets/files/CV.pdf
 github_link: https://github.com/naman
 linkedin: https://www.linkedin.com/in/namanspace/
-# twitter: https://twitter.com/_NamanGuptaa
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
@@ -32,7 +35,7 @@ enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-auto_dark_mode: false
+auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.

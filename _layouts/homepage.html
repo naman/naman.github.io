@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <title>{{ site.title }}</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -49,10 +49,17 @@
         <position style="font-size:1.20rem;">{{ site.position }}</position>
         <br>
         {% endif %}
+
         {% if site.affiliation %}
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
+
+        {% if site.university %}
+        <a href="{{ site.university_link }}" rel="noopener"><autocolor>{{ site.university }}</autocolor></a>
+        <br>
+        {% endif %}
+
         {% if site.email %}
         <email>{{ site.email }}</email>
         {% endif %}
@@ -103,6 +110,11 @@
         {% endif %}
         </div>
         <br>
+
+        {% if site.embed_news_sidebar %}
+          <h3 id="news">News</h3>
+          {% include_relative _includes/news.md %}
+        {% endif %}
 
       </header>
       <section>

@@ -12,6 +12,5 @@ I graduated from IIIT-Delhi with a Bachelors in Computer Science where I was adv
 <!-- I worked on a [formally verified boot protocol](https://www.usenix.org/conference/usenixsecurity21/presentation/tao), a hardware-backed Trusted Execution Environment (TEE) and an [offline streaming platform](https://www.microsoft.com/en-us/research/project/blendnet/) for low-income and people with a reduced tech literacy in rural India. -->
 
 
-{% include_relative _includes/news.md %}
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}
