@@ -3,11 +3,11 @@ main:
     authors: Naman Gupta, Sophie Stephenson, Chung Chi Yeung, Weiteng Wu, Jeneile Luebke, Kate Walsh, Rahul Chatterjee
     date: '2026-01-15'
     publication: 'arXiv preprint'
-    # pdf: assets/files/papers/usenix24.pdf
+    pdf: https://arxiv.org/pdf/2601.17966
     # bibtex: assets/files/bibs/usenix24.bib
     # slides: assets/files/slides/usenix24.pdf
     # image: assets/img/usenix24.png
-    # page: https://www.usenix.org/conference/usenixsecurity24/presentation/gupta
+    page: https://arxiv.org/abs/2601.17966
 
   - title: 'Trauma-Informed Digital Evidence Collection: A Design Inquiry into Evidence Practices for Technology-Facilitated Abuse in Intimate Partner Violence'
     authors: Sophie Stephenson, Naman Gupta, Akhil Polamarasetty, Kyle Huang, David Youssef, Kayleigh Cowan, Rahul Chatterjee
