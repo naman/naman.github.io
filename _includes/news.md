@@ -1,4 +1,6 @@
 <div class="header-news">
+<strong>Apr'26</strong> Doctoral Consortium accepted at DIS'26 &#127882;</br>
+<strong>Mar'26</strong> Won Best Paper Award at CHI'26 &#127882;</br>
 <strong>Jan'26</strong> Awarded <a href="https://secfac.wisc.edu/awards-lectures/knapp-bequest/">Knapp Bequest Award, UW-Madison</a> for the Decolonial Collective! &#127882;</br>
 <strong>Dec'25</strong> Passed my PhD Thesis Proposal Exam! Officially, a PhD Candidate now. &#127882; </br>
 <strong>Nov'25</strong> Presented at <a href="https://nursing.wisc.edu/native-nations-nursing/">Native Nations Nursing, Helpers, and Healers Summit</a>, Invited to the Program Committee for Symposium on Usable Security and Privacy USEC (NDSS) 2026. &#127882; </br>

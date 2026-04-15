@@ -1,13 +1,23 @@
 main:
+  - title: 'Counter-Computing: Digital Resistances and Global Solidarities'
+    authors: Ghadeer Awwad*,Shreya Chowdhary*,Palak Dudani*,Jasmine C. Foriest*,David Gamba*,<strong>Naman Gupta</strong>*,Eugene Kim*,Freddy Reiber*
+    date: '2026-02-15'
+    publication: 'Under review at ACM Computer-Supported Cooperative Work and Social Computing (CSCW) 2026'
+    # pdf: 
+    # bibtex: assets/files/bibs/usenix24.bib
+    # slides: assets/files/slides/usenix24.pdf
+    # image: assets/img/usenix24.png
+    # page: 
+
   - title: 'Violence as a Boundary Object: Language, Power, and Design Justice'
     authors: Jasmine C. Foriest∗, Alicia Devrio∗, Li Qiwei, Nimra Ahmed, <strong>Naman Gupta</strong>, Jensine Raihan,  Franchesca Spektor, Justine Zhang
     date: '2026-02-15'
     publication: 'Under review at ACM Conference on Designing Interactive Systems (DIS) 2026'
-    pdf: 
+    # pdf: 
     # bibtex: assets/files/bibs/usenix24.bib
     # slides: assets/files/slides/usenix24.pdf
     # image: assets/img/usenix24.png
-    page: 
+    # page: 
 
   - title: '"Lighting The Way For Those Not Here": How Technology Researchers Can Help Fight the Missing and Murdered Indigenous Relatives (MMIR) Crisis'
     authors: <strong>Naman Gupta</strong>, Sophie Stephenson, Chung Chi Yeung, Weiteng Wu, Jeneile Luebke, Kate Walsh, Rahul Chatterjee
@@ -22,18 +32,17 @@ main:
   - title: 'Trauma-Informed Digital Evidence Collection: A Design Inquiry into Evidence Practices for Technology-Facilitated Abuse in Intimate Partner Violence'
     authors: Sophie Stephenson, <strong>Naman Gupta</strong>, Akhil Polamarasetty, Kyle Huang, David Youssef, Kayleigh Cowan, Rahul Chatterjee
     date: '2026-01-15'
-    publication: 'Accepted in ACM Conference on Human Factors in Computing Systems (CHI) 2026 (🏆 Best Paper Award)'
+    publication: 'ACM Conference on Human Factors in Computing Systems (CHI) 2026 (🏆 Best Paper Award)'
     # pdf: assets/files/papers/usenix24.pdf
     # bibtex: assets/files/bibs/usenix24.bib
     # slides: assets/files/slides/usenix24.pdf
     # image: assets/img/usenix24.png
-    # page: https://www.usenix.org/conference/usenixsecurity24/presentation/gupta
-  
+    page: https://doi.org/10.1145/3772318.3790296
 
   - title: 'Hidden in Plain Bytes: Exploring Data Exports for Investigating Interpersonal Account Compromise'
     authors: Julia Nonnenkamp, <strong>Naman Gupta</strong>, Abhimanyu Gupta, and Rahul Chatterjee
     date: '2025-03-04'
-    publication: 'Accepted in Computer and Communications Security  (CCS) 2025'
+    publication: 'ACM Computer and Communications Security  (CCS) 2025'
     pdf: assets/files/papers/data-takeout.pdf
     # bibtex: assets/files/bibs/usenix24.bib
     # slides: assets/files/slides/usenix24.pdf
@@ -43,7 +52,7 @@ main:
   - title: 'Legal Evidence of Technology-Facilitated Abuse in Wisconsin: Surfacing Barriers Within and Beyond the Courtroom'
     authors: Sophie Stephenson, <strong>Naman Gupta</strong>, Akhil Polamarasetty, Kyle Huang, David Youssef, Kayleigh Cowan, and Rahul Chatterjee
     date: '2024-11-08'
-    publication: 'Accepted in Computer-Supported Cooperative Work and Social Computing (CSCW) 2025 (🏆 Top 5%, Honorable Mention for Best Paper Award)'
+    publication: 'ACM Computer-Supported Cooperative Work and Social Computing (CSCW) 2025 (🏆 Top 5%, Honorable Mention for Best Paper Award)'
     pdf: assets/files/papers/cscw25_legalevidence.pdf
     # bibtex: assets/files/bibs/usenix24.bib
     # slides: assets/files/slides/usenix24.pdf
@@ -114,8 +123,7 @@ main:
   - title: A firewall for Internet of Things
     authors: <strong>Naman Gupta*</strong>, Srishti Sengupta*, Vinayak Naik
     date: '2017-01-01'
-    publication: 'International Conference on Communication Systems and Networks
-  (COMSNETS) 2017'
+    publication: 'International Conference on Communication Systems and Networks (COMSNETS) 2017'
     pdf: assets/files/papers/firewall-iot.pdf
     bibtex: assets/files/bibs/comsnets17.bib
     slides: assets/files/papers/thesis-firewall-iot.pdf
