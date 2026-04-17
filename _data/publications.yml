@@ -1,28 +1,8 @@
 main:
-  - title: 'Counter-Computing: Digital Resistances and Global Solidarities'
-    authors: Ghadeer Awwad*,Shreya Chowdhary*,Palak Dudani*,Jasmine C. Foriest*,David Gamba*,<strong>Naman Gupta</strong>*,Eugene Kim*,Freddy Reiber*
-    date: '2026-02-15'
-    publication: 'Under review at ACM Computer-Supported Cooperative Work and Social Computing (CSCW) 2026'
-    # pdf: 
-    # bibtex: assets/files/bibs/usenix24.bib
-    # slides: assets/files/slides/usenix24.pdf
-    # image: assets/img/usenix24.png
-    # page: 
-
   - title: 'Reclaiming Technology to Heal from Violence through Safety, Healing, and Liberation'
     authors: <strong>Naman Gupta</strong>
     date: '2026-04-15'
     publication: 'Doctoral Consortium at ACM Conference on Designing Interactive Systems (DIS) 2026'
-    # pdf: 
-    # bibtex: assets/files/bibs/usenix24.bib
-    # slides: assets/files/slides/usenix24.pdf
-    # image: assets/img/usenix24.png
-    # page: 
-
-  - title: 'Violence as a Boundary Object: Language, Power, and Design Justice'
-    authors: Jasmine C. Foriest∗, Alicia Devrio∗, Li Qiwei, Nimra Ahmed, <strong>Naman Gupta</strong>, Jensine Raihan,  Franchesca Spektor, Justine Zhang
-    date: '2026-02-15'
-    publication: 'Under review at ACM Conference on Designing Interactive Systems (DIS) 2026'
     # pdf: 
     # bibtex: assets/files/bibs/usenix24.bib
     # slides: assets/files/slides/usenix24.pdf

@@ -1,3 +1,7 @@
+## Workshops
+  - 'Counter-Computing: Digital Resistances and Global Solidarities'. Ghadeer Awwad*,Shreya Chowdhary*,Palak Dudani*,Jasmine C. Foriest*,David Gamba*,<strong>Naman Gupta</strong>*,Eugene Kim*,Freddy Reiber*. 'Under review at ACM Computer-Supported Cooperative Work and Social Computing (CSCW) 2026'
+  - 'Violence as a Boundary Object: Language, Power, and Design Justice'. Jasmine C. Foriest∗, Alicia Devrio∗, Li Qiwei, Nimra Ahmed, <strong>Naman Gupta</strong>, Jensine Raihan,  Franchesca Spektor, Justine Zhang. 'Under review at ACM Conference on Designing Interactive Systems (DIS) 2026'
+
 ## Service
 
 Number of papers reviewed in (X). 🏅 Special recognition for an outstanding review.
