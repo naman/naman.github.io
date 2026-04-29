@@ -1,11 +1,13 @@
 <div class="header-news">
+<strong>Apr'26</strong> Hosted a workshop for GBV advocates at <a href="https://www.endabusewi.org/event/staying-safer-technology-use-abuse-and-digital-data-series-healing-through-tech-agency-technology-facilitated-abuse/">EndAbuseWI</a>.</br>
+<strong>Apr'26</strong> Invited talk at Antiracism Learning & Action in Neuroscience group at UW-Madison.</br>
 <strong>Apr'26</strong> Doctoral Consortium accepted at DIS'26 &#127882;</br>
 <strong>Mar'26</strong> Won Best Paper Award at CHI'26 &#127882;</br>
 <strong>Jan'26</strong> Awarded <a href="https://secfac.wisc.edu/awards-lectures/knapp-bequest/">Knapp Bequest Award, UW-Madison</a> for the Decolonial Collective! &#127882;</br>
 <strong>Dec'25</strong> Passed my PhD Thesis Proposal Exam! Officially, a PhD Candidate now. &#127882; </br>
 <strong>Nov'25</strong> Presented at <a href="https://nursing.wisc.edu/native-nations-nursing/">Native Nations Nursing, Helpers, and Healers Summit</a> </br>
 <strong>Nov'25</strong> Invited to the Program Committee for Symposium on Usable Security and Privacy USEC (NDSS) 2026. </br>
-<strong>Oct'25</strong> Invited to Lac Court Oreilles Reservation (LCO) to facilitate a workshop on technology-facilitated abuse for advocates. </br>
+<strong>Oct'25</strong> Invited to Lac Court Oreilles Reservation (LCO) to facilitate a workshop for advocates. </br>
 <strong>Oct'25</strong> Chaired a session on <a href="https://programs.sigchi.org/cscw/2025/program/session/213468">Reflecting on Methodology</a> at CSCW'25!</br>
 <strong>Oct'25</strong> Won Honorable Mention for Best Paper</a> at CSCW'25! &#127882;
 </ul>
