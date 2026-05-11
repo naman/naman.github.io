@@ -24,11 +24,11 @@ Number of papers reviewed in (X). 🏅 Special recognition for an outstanding re
 ## Mentoring
 
 UW-Madison
-- Graduate Students -- Kexin Zhang, Pooja Yadav, Daniel Mu, Mohammad Musa, Deep Patel
+- Graduate Students -- Julia Nonnenkamp, Kexin Zhang, Pooja Yadav, Daniel Mu, Mohammad Musa, Deep Patel
 - Undergraduate Students -- Emily Wu, Justin Yeung
-- Mentor, [UW-Madison CS Graduate Student Mentorship Program](https://www.cs.wisc.edu)
-- Officer, Student's Chapter of ACM (SACM)
+- Organizer: [Decolonial Collective](#) at UW-Madison. Email me to join!
 - Organizer: [HCI Reading Group](https://bit.ly/uwmadison-hcc-meetup) at UW-Madison
+- Mentor, [UW-Madison CS Graduate Student Mentorship Program](https://www.cs.wisc.edu)
 - Community Organizer for [UW Madison Grad Student Discord](https://discord.gg/Bzf7Kz6RQ5"). Join us!
 
 
