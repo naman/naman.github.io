@@ -12,12 +12,12 @@ main:
   - title: '"Lighting The Way For Those Not Here": How Technology Researchers Can Help Fight the Missing and Murdered Indigenous Relatives (MMIR) Crisis'
     authors: <strong>Naman Gupta</strong>, Sophie Stephenson, Chung Chi Yeung, Weiteng Wu, Jeneile Luebke, Kate Walsh, Rahul Chatterjee
     date: '2026-01-15'
-    publication: 'arXiv preprint'
-    pdf: https://arxiv.org/pdf/2601.17966
+    publication: 'Under Review at ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW) 2026'
+    # pdf: https://arxiv.org/pdf/2601.17966
     # bibtex: assets/files/bibs/usenix24.bib
     # slides: assets/files/slides/usenix24.pdf
     # image: assets/img/usenix24.png
-    page: https://arxiv.org/abs/2601.17966
+    # page: 
 
   - title: 'Trauma-Informed Digital Evidence Collection: A Design Inquiry into Evidence Practices for Technology-Facilitated Abuse in Intimate Partner Violence'
     authors: Sophie Stephenson, <strong>Naman Gupta</strong>, Akhil Polamarasetty, Kyle Huang, David Youssef, Kayleigh Cowan, Rahul Chatterjee

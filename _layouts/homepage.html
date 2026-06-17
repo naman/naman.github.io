@@ -55,6 +55,11 @@
         <br>
         {% endif %}
 
+        {% if site.location %}
+        <position style="font-size:1.20rem;">{{ site.location }}</position>
+        <br>
+        {% endif %}
+
         {% if site.university %}
         <a href="{{ site.university_link }}" rel="noopener"><autocolor>{{ site.university }}</autocolor></a>
         <br>
