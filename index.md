@@ -2,6 +2,9 @@
 layout: homepage
 ---
 
+> **_NOTE:_**  I am on the Academic Job Market for postdoc/tenure-track positions starting from 2027 in Information, Computer Science, and related interdisciplinary fields.
+
+
 Namaste! I am Naman (he/him), a Computer Science PhD Candidate at the [University of Wisconsin-Madison, USA](https://cs.wisc.edu/), advised by [Prof. Rahul Chatterjee](https://pages.cs.wisc.edu/~chatterjee/).  
 
 I acknowledge the Ho-Chunk Nation on whose ancestral lands I am grateful to work and live as a guest. I deeply respect the knowledge embedded in the Ho-Chunk’s custodianship of Teejop (DeJope) and recognize their continuing connection to land, water, and community here at UW-Madison.
