@@ -1,4 +1,14 @@
 main:
+  - title: 'Lessons from Trauma-Informed Training on Technology-Facilitated Abuse for Gender-Based Violence Advocates'
+    authors: <strong>Naman Gupta</strong>, Sophie Stephenson, Connie W Chau, Kate Walsh, Rahul Chatterjee
+    date: '2026-08-20'
+    publication: 'Under Review at ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW) 2026'
+    # pdf: https://arxiv.org/pdf/2601.17966
+    # bibtex: assets/files/bibs/usenix24.bib
+    # slides: assets/files/slides/usenix24.pdf
+    # image: assets/img/usenix24.png
+    # page: 
+    
   - title: 'Reclaiming Technology to Heal from Violence through Safety, Healing, and Liberation'
     authors: <strong>Naman Gupta</strong>
     date: '2026-04-15'
