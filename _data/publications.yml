@@ -8,6 +8,16 @@ main:
     # slides: assets/files/slides/usenix24.pdf
     # image: assets/img/usenix24.png
     # page: 
+
+  - title: 'Mending the Border-ed World Through Relationality, Repair and Refusal of Colonial Erasure'
+    authors: <strong>Naman Gupta</strong>, Arjav Sharma, Foram Gathia, Indranila Bose, Enock Yeboah, Elena Aydarova
+    date: '2026-08-20'
+    publication: 'Under Review at Decolonial Special Interest Group Symposium at American Educational Research Association \textbf{(AERA 2027)}'
+    # pdf: https://arxiv.org/pdf/2601.17966
+    # bibtex: assets/files/bibs/usenix24.bib
+    # slides: assets/files/slides/usenix24.pdf
+    # image: assets/img/usenix24.png
+    # page: 
     
   - title: 'Reclaiming Technology to Heal from Violence through Safety, Healing, and Liberation'
     authors: <strong>Naman Gupta</strong>
