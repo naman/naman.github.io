@@ -1,3 +1,4 @@
+
 <!-- html starts for older news -->
 <details>
   <summary>Older news</summary>
@@ -6,7 +7,7 @@
       <ul>
         <li> Facilitated training sessions on tech-faciliated abuse in collaboration with: 
           <ul>
-          <li> July 29: <a href="https://www.niwrc.org/2025-women-are-sacred-conference">National Indigenous Women’s Resource Center (NIWRC) Women are Sacred Conference</a> (Milwaukee, WI): Invited by NIWRC to facilitate a workshop on technology-facilitated abuse! &#127882; </li>
+          <li> July 29: [National Indigenous Women’s Resource Center (NIWRC) Women are Sacred Conference](https://www.niwrc.org/2025-women-are-sacred-conference) (Milwaukee, WI): Invited by NIWRC to facilitate a workshop on technology-facilitated abuse! &#127882; </li>
           <li> July 11: ARC Community Services (Madison, WI) </li>
           <li> July 2: Capacitity Building Consortium lead by National Indigenous Women’s Resource Center (NIWRC) and National Network to End Domestic Violence (NNEDV) (Online) </li>
           </ul>
@@ -15,11 +16,11 @@
       </ul>
     <li><strong>June'25</strong>
     <ul>
-      <li> Awarded prestigious <a href="https://morgridge.wisc.edu/faculty-and-staff-get-connected/morgridge-fellows/">Morgridge Fellowship for Community-Engaged Scholarship</a> recognizing my advocacy work with <a href="https://techclinic.cs.wisc.edu/">Madison Tech Clinic</a>! &#127882;</li>
+      <li> Awarded prestigious [Morgridge Fellowship for Community-Engaged Scholarship](https://morgridge.wisc.edu/faculty-and-staff-get-connected/morgridge-fellows/) recognizing my advocacy work with [Madison Tech Clinic](https://techclinic.cs.wisc.edu/)! &#127882;</li>
     </ul>
     <li><strong>March'25</strong>
     <ul>
-      <li> Participated in a <a href="https://the-network.org/event/panel-discussion-technology-facilitated-abuse/">panel on tech abuse</a> at The Network’s “Reclaiming Our Love: Social Justice &amp; Domestic Violence” Conference in Chicago.</li>
+      <li> Participated in a [panel on tech abuse](https://the-network.org/event/panel-discussion-technology-facilitated-abuse/) at The Network’s “Reclaiming Our Love: Social Justice & Domestic Violence” Conference in Chicago.</li>
       <li> Paper accepted in CSCW ‘25!  &#127882;</li>
     </ul>
     <li><strong>Feb'25</strong>: Guest lecture for PSYCH311: Sexual Violence Research and Advocacy.</li>
@@ -64,7 +65,7 @@
       </ul>
     </li>
     <li><strong>Apr’23</strong>: Runners-up talk at UW-Madison CS Research Symposium’23. 🎊</li>
-    <li><strong>Mar’23</strong>: Awarded a student grant to attend NDSS’23. Organized <em>Queer in Security <em>and</em> Privacy</em> discussion with <a href="https://levanhieu.com/">Hieu Le</a>.</li>
+    <li><strong>Mar’23</strong>: Awarded a student grant to attend NDSS’23. Organized <em>Queer in Security *and</em> Privacy* discussion with <a href="https://levanhieu.com/">Hieu Le</a>.</li>
     <li><strong>Dec’22</strong>: <a href="assets/files/papers/usec23.pdf">Paper</a> accepted in NDSS’23 (Workshop on Usable Security)! 🎊</li>
     <li><strong>Aug’21</strong>: Started PhD in Computer Science at UW-Madison.</li>
     <li><strong>Jan’21</strong>: (assets/files/papers/272306/)Paper] accepted at USENIX’21! 🎊</li>
@@ -77,5 +78,4 @@
       </ul>
     </li>
   </ul>
-</details><!-- html ends for older news --></h2>
-</div>
+</details>

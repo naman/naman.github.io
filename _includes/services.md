@@ -1,6 +1,13 @@
-## Workshops
-  - 'Counter-Computing: Digital Resistances and Global Solidarities'. Ghadeer Awwad*,Shreya Chowdhary*,Palak Dudani*,Jasmine C. Foriest*,David Gamba*,<strong>Naman Gupta</strong>*,Eugene Kim*,Freddy Reiber*. 'Under review at ACM Computer-Supported Cooperative Work and Social Computing (CSCW) 2026'
-  - 'Violence as a Boundary Object: Language, Power, and Design Justice'. Jasmine C. Foriest∗, Alicia Devrio∗, Li Qiwei, Nimra Ahmed, <strong>Naman Gupta</strong>, Jensine Raihan,  Franchesca Spektor, Justine Zhang. 'Under review at ACM Conference on Designing Interactive Systems (DIS) 2026'
+## Workshops and Doctoral Consortium
+- Naman Gupta, "Policrisis in the age of AI and Scientific Acceleration." Selected workshop at Heidelberg Laureate Forum HLF 2026.
+- Naman Gupta, Arjav Sharma, Foram Gathia, Indranila Bose, Enock Yeboah, Elena Aydarova, "Mending the Border-ed World Through Relationality, Repair and Refusal of Colonial Erasure."  Under review at Decolonial Special Interest Group Symposium at American Educational Research Association (AERA 2027).
+- Naman Gupta.  "Reclaiming Technology to Heal from Violence through Safety, Healing, and Liberation." Doctoral Consortium, ACM Designing Interactive Systems Conference (DIS 2026).
+- Jasmine C. Foriest, Alicia DeVrio, Li Qiwei, Nimra Ahmed, Naman Gupta, Jensine Raihan, Franchesca Spektor, Justine Zhang, "Violence as a Boundary Object: Language, Power, and Design Justice." Under review at  ACM Designing Interactive Systems Conference (DIS 2026).
+- Ghadeer Awwad*, Shreya Chowdhary*, Palak Dudani*, Jasmine C. Foriest*, David Gamba*, Naman Gupta*, Eugene Kim*, Freddy Reiber*, "Counter-Computing: Digital Resistances and Global Solidarities."
+Under review at  ACM Computer-Supported Cooperative Work and Social Computing (CSCW) 2026.
+- Sophie Stephenson, Meghna Gupta, Miranda Wei, Naman Gupta, Franziska Roesner, Mary Jean Amon, Apu Kapadia, Rahul Chatterjee, "Digital Trust and Safety in the Context of Interpersonal Relationships.",  Special Interest Group, Rejected at ACM Human Factors in Computing Systems (CHI) 2025.
+- Rose Ceccio*, Naman Gupta, Majed Almansoori*, Rahul Chatterjee, "Analyzing Patterns and Behavior of Users When Detecting and Preventing Tech-enabled Stalking." Workshop on Usable Security and Privacy. Network and Distributed System Security (NDSS 2023).
+- Naman Gupta and Rahul Chatterjee, "Decolonizing Digital Safety Research: Safety for Who? Safety from What?.", Workshop proposal for the workshop "What is Safety?: Building Bridges Across Approaches to Digital Risks and Harms. ACM Computer-Supported Cooperative Work and Social Computing (CSCW 2024). 
 
 ## Service
 

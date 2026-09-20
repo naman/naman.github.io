@@ -9,26 +9,6 @@ main:
     # image: assets/img/usenix24.png
     # page: 
 
-  - title: 'Mending the Border-ed World Through Relationality, Repair and Refusal of Colonial Erasure'
-    authors: <strong>Naman Gupta</strong>, Arjav Sharma, Foram Gathia, Indranila Bose, Enock Yeboah, Elena Aydarova
-    date: '2026-08-20'
-    publication: 'Under Review at Decolonial Special Interest Group Symposium at American Educational Research Association \textbf{(AERA 2027)}'
-    # pdf: https://arxiv.org/pdf/2601.17966
-    # bibtex: assets/files/bibs/usenix24.bib
-    # slides: assets/files/slides/usenix24.pdf
-    # image: assets/img/usenix24.png
-    # page: 
-    
-  - title: 'Reclaiming Technology to Heal from Violence through Safety, Healing, and Liberation'
-    authors: <strong>Naman Gupta</strong>
-    date: '2026-04-15'
-    publication: 'Doctoral Consortium at ACM Conference on Designing Interactive Systems (DIS) 2026'
-    # pdf: 
-    # bibtex: assets/files/bibs/usenix24.bib
-    # slides: assets/files/slides/usenix24.pdf
-    # image: assets/img/usenix24.png
-    # page: 
-
   - title: '"Lighting The Way For Those Not Here": How Technology Researchers Can Help Fight the Missing and Murdered Indigenous Relatives (MMIR) Crisis'
     authors: <strong>Naman Gupta</strong>, Sophie Stephenson, Chung Chi Yeung, Weiteng Wu, Jeneile Luebke, Kate Walsh, Rahul Chatterjee
     date: '2026-01-15'
@@ -68,16 +48,6 @@ main:
     # slides: assets/files/slides/usenix24.pdf
     # image: assets/img/usenix24.png
     page: https://dl.acm.org/doi/10.1145/3757622
-
-  - title: 'Decolonizing Digital Safety Research: Safety for Who? Safety from What?'
-    authors: <strong>Naman Gupta</strong> and Rahul Chatterjee
-    date: '2024-11-08'
-    publication: 'Workshop at CHI 2024. “What is Safety?”: Building Bridges Across Approaches to Digital Risks and Harms'
-    # pdf: assets/files/papers/usenix24.pdf
-    # bibtex: assets/files/bibs/usenix24.bib
-    # slides: assets/files/slides/usenix24.pdf
-    # image: assets/img/usenix24.png
-    # page: https://www.usenix.org/conference/usenixsecurity24/presentation/gupta
 
 
   - title: '“I really just leaned on my community for support”: Barriers, Challenges, and Coping Mechanisms Used by Survivors of Technology–Facilitated Abuse to Seek Social Support'

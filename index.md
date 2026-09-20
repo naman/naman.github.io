@@ -2,20 +2,18 @@
 layout: homepage
 ---
 
-> **_NOTE:_**  I am on the Academic Job Market for postdoc/tenure-track positions starting from 2027 in Information, Computer Science, and related interdisciplinary fields.
+> **_NOTE:_**  I am on the Academic Job Market for postdoc/tenure-track positions starting from 2027 in Information, Computer Science, Communications, and related interdisciplinary fields.
 
 
 Namaste! I am Naman (he/him), a Computer Science PhD Candidate at the [University of Wisconsin-Madison, USA](https://cs.wisc.edu/), advised by [Prof. Rahul Chatterjee](https://pages.cs.wisc.edu/~chatterjee/).  
+My research examines how technology enables gender-based interpersonal and structural violence, and yet, provide spaces of reclamation and radical possibility that fosters collective safety, resistance, and liberation among impacted communities. My research engages with many disciplines: Human-Computer Interaction (HCI), Security & Privacy (S&P), and Social/Critical Computing. 
+My research has made contributions through two threads of work: (1) designing interventions to interpersonal violence survivors' support-seeking strategies, and (2) design opportunities to dismantle structural violence. I publish in top-tier HCI and S&P research venues, such as CHI, CSCW, DIS, USENIX Security, CCS, and, NDSS.
+
+Embracing an _advocacy-researcher_ philosophy, I direct the operations and outreach at [Madison Tech Clinic (MTC)](https://techclinic.cs.wisc.edu/), a trauma-informed intervention that has supported 180+ survivors with their digital safety needs. I have personally supported 40+ survivors and lead the outreach efforts to build partnerships with {24 GBV advocacy organizations}, spreading MTC's services across 32 counties in the state of Wisconsin, US. My work has been awarded the [Morgridge Fellowship for Community-Engaged Scholarship](https://morgridge.wisc.edu/faculty-and-staff-get-connected/morgridge-fellows). 
 
 I acknowledge the Ho-Chunk Nation on whose ancestral lands I am grateful to work and live as a guest. I deeply respect the knowledge embedded in the Ho-Chunk’s custodianship of Teejop (DeJope) and recognize their continuing connection to land, water, and community here at UW-Madison.
 
-My research combines interdisciplinary perspectives through collaborations with [MadS&P](https://madsp.cs.wisc.edu/), [Preventing Interpersonal Violence and Overcoming Trauma (PIVOT) Lab](https://pivotlab.psych.wisc.edu/), [Native American Women Thriving through Innovative Violence Prevention and Empowerment (NATIVE) Lab](https://nativelab.wiscweb.wisc.edu) and [Sexual Violence Research Initative (SVRI)](https://crgw.gws.wisc.edu/sexual-violence-research-initiative/). I aim to make technology safe, equitable, and supportive for everyone, especially historically marginalized communities who face intersecting axes of socio-political oppression and violence intersecting race, space and time. Using interdisciplinary, intersectional, and community-engaged research methods, I examine both (a) how digital technologies enable gender-based and settler-colonial violence, and (b) how communities reclaim technologies for collective safety, healing, and liberation. I view academic research as a site of social transformation, one that re-imagines knowledge production through material community-led and justice-oriented interventions.
-
-As an act of reciprocity, I direct the operations and outreach efforts at the Madison Tech Clinic (MTC), a free and confidential community-engaged organization that has provided trauma-informed support to 150+ gender-based violence (GBV) survivors across Wisconsin, USA. Recognizing my advocacy, I have received the [Morgridge Fellowship for Community-Engaged Scholarship](https://morgridge.wisc.edu/faculty-and-staff-get-connected/morgridge-fellows/). I am also a recipient of the [Microsoft Research Fellows Program](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/) where I was advised by [Kapil Vaswani](https://www.microsoft.com/en-us/research/people/kapilv/) at [Confidential Computing](https://www.microsoft.com/en-us/research/theme/confidential-computing/) and [Technology for Empowerment](https://www.microsoft.com/en-us/research/theme/technology-and-empowerment/publications/) group. 
-<!-- Prior to that, I graduated from IIIT-Delhi with a Bachelors in Computer Science where I was advised by [Prof. Vinayak Naik](http://vinayaknaik.info/) and [Prof. Sachit Butail](https://www.niu.edu/ceet/about/faculty-and-instructors/butail-sachit.shtml). -->
-
-<!-- I worked on a [formally verified boot protocol](https://www.usenix.org/conference/usenixsecurity21/presentation/tao), a hardware-backed Trusted Execution Environment (TEE) and an [offline streaming platform](https://www.microsoft.com/en-us/research/project/blendnet/) for low-income and people with a reduced tech literacy in rural India. -->
-
-
+{% include_relative _includes/news.md %}
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}
+{% include_relative _includes/older-news.md %}

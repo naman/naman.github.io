@@ -16,7 +16,6 @@ canonical: https://naman.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-embed_news_sidebar: true
 google_scholar: https://scholar.google.com/citations?hl=en&user=0vkBh14AAAAJ&view_op=list_works&gmla=AH8HC4wz-wl3_wCGFFlbpDA4xEopaEPLNyNkPo_wf_UfLS3q2I7SWMTxugvodA7F7mMGST9d5C3deEVclLIku8V5
 research_gate: https://www.researchgate.net/profile/Naman-Gupta-11
 dblp: https://orcid.org/0000-0002-9581-081X
@@ -33,7 +32,7 @@ favicon_dark: ./assets/img/favicon.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
