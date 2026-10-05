@@ -19,8 +19,7 @@ and,
 
 Embracing an advocacy-researcher practice, I direct the operations and outreach at [Madison Tech Clinic (MTC)](https://techclinic.cs.wisc.edu/), a trauma-informed intervention that has supported 180+ survivors with their digital safety needs. I have personally supported 40+ survivors and lead the outreach efforts to build partnerships with 24 GBV advocacy organizations, spreading
 MTC’s services across 32 counties in the state of Wisconsin, US. I have been awarded the [Morgridge Fellowship for
-Community-Engaged Scholarship](https://morgridge.wisc.edu/2025/08/14/eighth-cohort-of-morgridge-fellows-selected/) to recognize my research practice. And, I have formally trained over 200 health prac-
-titioners, lawyers, judges, and policymakers spanning across the nation ([National Network of Ending Domestic Violence](https://www.nnedv.org/), [National Indigenous Women’s Resource
+Community-Engaged Scholarship](https://morgridge.wisc.edu/2025/08/14/eighth-cohort-of-morgridge-fellows-selected/) to recognize my research practice. And, I have formally trained over 200 health practitioners, lawyers, judges, and policymakers spanning across the nation ([National Network of Ending Domestic Violence](https://www.nnedv.org/), [National Indigenous Women’s Resource
 Center](https://www.niwrc.org/), [Lac Courte Oreilles Tribal Nation](https://www.lac-courte-oreilles-nsn.gov/), state ([EndAbuseWI](https://endabusewi.org/), [The
 Network](https://www.the-network.org/), and [Mending the Sacred Hoop](https://mshoop.org)).
 
