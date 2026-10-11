@@ -1,7 +1,11 @@
 ### What have I been up to? 🔥
 
+- **Oct'26**: 
+  - Attending CSCW'26 in Salt Lake City, Utah, USA. See you there!
+  - Conducted a panel discussion on student life at [11th Midwest Security Workshop](https://www.midwestsecurityworkshop.com/).
+
 - **Sept'26**: 
-  - Conducting a panel discussion on Technology and Human Trafficking at [Cook County Human Trafficking Task Force Conference](https://www.cookcountytaskforce.org/2026-conference.html).
+  - Conducted a panel discussion on Technology and Human Trafficking at [Cook County Human Trafficking Task Force Conference](https://www.cookcountytaskforce.org/2026-conference.html).
   - Invited to attend and present in the NextGen Session at [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/). I also lead an impromptu workshop on Planetary Crisis and AI which was very well received by laureats, journalists, young, and alumni researchers.
 
 - **Apr'26**: 
