@@ -1,9 +1,20 @@
 main:
-  - title: 'Lessons from Trauma-Informed Training on Technology-Facilitated Abuse for Gender-Based Violence Advocates'
-    authors: <strong>Naman Gupta</strong>, Sophie Stephenson, Connie W Chau, Kate Walsh, Rahul Chatterjee
+   - title: 'Mending the Border-ed World Through Relationality, Repair and Refusal of Colonial Erasure.'
+    authors: <strong>Naman Gupta</strong>, Arjav Sharma, Foram Gathia, Indranila Bose, Enock Yeboah, Elena Aydarova
     date: '2026-08-20'
-    publication: 'Under Review at ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW) 2026'
-    # pdf: https://arxiv.org/pdf/2601.17966
+    publication: 'Workshop Panel at American Educational Research Association (AERA 2027)'
+    pdf: assets/files/papers/aera27.pdf
+    # bibtex: assets/files/bibs/usenix24.bib
+    # slides: assets/files/slides/usenix24.pdf
+    # image: assets/img/usenix24.png
+    # page: 
+
+
+  - title: 'Lessons from Trauma-Informed Training on Technology-Facilitated Abuse for Gender-Based Violence Advocates'
+    authors: <strong>Naman Gupta</strong>, Connie W Chau, Sophie Stephenson, Kate Walsh, Rahul Chatterjee
+    date: '2026-08-20'
+    publication: 'In Review at ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW) 2027'
+    pdf: assets/files/papers/TFA-training.pdf
     # bibtex: assets/files/bibs/usenix24.bib
     # slides: assets/files/slides/usenix24.pdf
     # image: assets/img/usenix24.png
@@ -12,7 +23,27 @@ main:
   - title: '"Lighting The Way For Those Not Here": How Technology Researchers Can Help Fight the Missing and Murdered Indigenous Relatives (MMIR) Crisis'
     authors: <strong>Naman Gupta</strong>, Sophie Stephenson, Chung Chi Yeung, Weiteng Wu, Jeneile Luebke, Kate Walsh, Rahul Chatterjee
     date: '2026-01-15'
-    publication: 'Under Review at ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW) 2026'
+    publication: 'In Review at ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW) 2027'
+    pdf: assets/files/papers/MMIR.pdf
+    # bibtex: assets/files/bibs/usenix24.bib
+    # slides: assets/files/slides/usenix24.pdf
+    # image: assets/img/usenix24.png
+    # page: 
+
+  - title: 'Video Conferencing in the AI Age: Supporting Dignified Experiences for Blind and Low-Vision Presenters in High-Stakes Meetings'
+    authors: Kexin Zhang, Miso Kwak, <strong>Naman Gupta</strong>, Yotam Sechayk, Rahul Chatterjee, Yuhang Zhao
+    date: '2026-01-15'
+    publication: 'In Review at ACM Conference on Human Factors in Computing Systems (CHI) 2027'
+    # pdf: https://arxiv.org/pdf/2601.17966
+    # bibtex: assets/files/bibs/usenix24.bib
+    # slides: assets/files/slides/usenix24.pdf
+    # image: assets/img/usenix24.png
+    # page: 
+
+  - title: 'Investigating Account Compromise using Data Exports for Survivors of Technology-Facilitated Abuse'
+    authors: Julia Nonnenkamp, <strong>Naman Gupta</strong>, Angela Wang, Sophie Stephenson, Rahul Chatterjee
+    date: '2026-01-15'
+    publication: 'In Review at USENIX Security 2027'
     # pdf: https://arxiv.org/pdf/2601.17966
     # bibtex: assets/files/bibs/usenix24.bib
     # slides: assets/files/slides/usenix24.pdf
@@ -33,7 +64,7 @@ main:
     authors: Julia Nonnenkamp, <strong>Naman Gupta</strong>, Abhimanyu Gupta, and Rahul Chatterjee
     date: '2025-03-04'
     publication: 'ACM Computer and Communications Security  (CCS) 2025'
-    pdf: assets/files/papers/data-takeout.pdf
+    pdf: https://nonnenkamp.com/assets/pdf/hidden_in_plain_bytes_10052025.pdf
     # bibtex: assets/files/bibs/usenix24.bib
     # slides: assets/files/slides/usenix24.pdf
     # image: assets/img/usenix24.png

@@ -1,5 +1,8 @@
 ### What have I been up to? 🔥
 
+- **Nov'26**: 
+  - Our panel got accepted at [AERA'27](https://www.aera.net/) on "Mending the Border-ed World Through Relationality, Repair and Refusal of Colonial Erasure.". &#127882;
+
 - **Oct'26**: 
   - Our paper got selected as one of the 10 finalists for [CSAW 2026 Applied Research Competition](https://mlab.cyber.nyu.edu/csaw/). [Julia](https://nonnenkamp.com) will travel to New York to present her amazing work. &#127882;
   - Attended CSCW'26 in Salt Lake City, Utah, USA.
