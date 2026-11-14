@@ -2,10 +2,10 @@
 layout: homepage
 ---
 
-> **_NOTE:_**  I am on the Academic Job Market for postdoc/tenure-track positions starting from 2027 in Information, Computer Science, Communications, and related interdisciplinary fields.
+> **_NOTE:_** I am on the Academic Job Market for postdoc/tenure-track positions starting from 2027 in Information, Computer Science, Communications, and related interdisciplinary fields.
 
 
-Namaste! I am Naman (he/him), a Computer Science PhD Candidate at the [University of Wisconsin-Madison, USA](https://cs.wisc.edu/), advised by [Prof. Rahul Chatterjee](https://pages.cs.wisc.edu/~chatterjee/).  I aim to make technology safe, equitable, and supportive for everyone, especially, communities facing intersecting axes of socio-political violence intersecting race, space and time. 
+Namaste! I am Naman Gupta (he/him), a Computer Science PhD Candidate at the [University of Wisconsin-Madison, USA](https://cs.wisc.edu/), advised by [Prof. Rahul Chatterjee](https://pages.cs.wisc.edu/~chatterjee/). I aim to make technology safe, equitable, and supportive for everyone, especially, communities facing intersecting axes of socio-political violence intersecting race, space, and time. 
 
 My research examines how interpersonal and structural technologies enables online and offline gender-based violence (GBV) such as intimate partner violence, labor/sex trafficking, genocide, and environmental destruction. Specifically, how equitable design interventions (trainings, tools, and advocacy practices) can reduce harm and help marginalized communities foster collective safety, healing, resistance, and liberation.
 To do this, I combine ethnographic, participatory, and design research methods to bridge disciplinary boundaries in and beyond human-computer interaction, security & privacy, sociology, psychology, education, politics, law, history, anthropology, & healthcare. 
